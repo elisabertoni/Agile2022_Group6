@@ -1,1 +1,3 @@
-This is a demo website created in Agile project. [ Elisa Bertoni ]
+This is a demo website created in Agile project on 12/4. 
+
+[Author is Elisa Bertoni ]
