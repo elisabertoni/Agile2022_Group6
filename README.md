@@ -1,7 +1,7 @@
-# ITPM5.240 Agile Projects - Semester 1 2022  [GROUP 6] 
+# ITPM5.240 Agile Projects 
 
 
-Welcome to our GitHub. This is a demo website created in Agile Projects.
+Welcome to our GitHub. This is a demo website created in Agile Projects - Semester 1 2022  [GROUP 6] 
 
 
 
