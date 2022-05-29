@@ -1,7 +1,6 @@
-This is a demo website created in Agile project on 12/4. 
-New Design here.
+This is a demo website created in ITPM5.240 Agile Projects, Semester 1 2022 - GROUP 6.
+
+Please find all our documents under the Documentation folder.
 
 
-[Author is Elisa Bertoni hello ]
-
-Thanks for sharing Elisa, Cheers, Noor
+[Author is Elisa Bertoni and Sass Russell]
