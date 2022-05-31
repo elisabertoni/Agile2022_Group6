@@ -4,8 +4,6 @@
 
 Welcome to our GitHub. This is a demo website created in Agile Projects S1 2022 - **GROUP 6**
 
-<br>
-<br>
 
 ## Table of contents
 
