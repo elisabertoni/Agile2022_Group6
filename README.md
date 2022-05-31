@@ -7,18 +7,11 @@ Welcome to our GitHub. This is a demo website created in Agile Projects S1 2022 
 <br>
 <br>
 
-***Please find all our documents under the Documentation folder***
+## Table of contents
 
-<br>
-<br>
-
-Link to Timups Website [here](https://elisabertoni.github.io/Agile2022_Group6/).
-
-<br>
-<br>
-
-
-For more info on our project and full list of documentation jump to our [Wiki Page](https://github.com/elisabertoni/Agile2022_Group6/wiki)
+- ***Please find all our documents under the Documentation folder***
+- Link to Timups Website [here](https://elisabertoni.github.io/Agile2022_Group6/)
+- For more info on our project and full list of documentation jump to our [Wiki Page](https://github.com/elisabertoni/Agile2022_Group6/wiki)
 
 <br>
 <br>
