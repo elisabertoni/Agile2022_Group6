@@ -6,7 +6,7 @@ Welcome to our GitHub. This is a demo website created in Agile Projects S1 2022 
 
 
 ## Documentation
-Please find all our documents under the Documentation folder
+Please find all our documents under the Documentation folder or click [here](https://github.com/elisabertoni/Agile2022_Group6/tree/master/Documentation)
 
 ## Wiki Page 
 For more info on our project and full list of documentation jump to our [Wiki Page](https://github.com/elisabertoni/Agile2022_Group6/wiki)
